@@ -5,7 +5,7 @@
 
 ## This project will be unmaintained in uncertain time.
 Constant library changes can be a big problem for me. Due to them constantly changing script file/folder names in library.swf file (could be preventing to get onto the modified client), this slows my progress of getting it done, especially my skills in knowledge of this kind of programming language (ActionScript).<br>
-**Possibly,** you could download these original ones and straight-up replace with textures and scripts; but with patience, you don't have to, you just do it **your own self.**
+**Possibly,** you could download these original ones and straight-up replace with textures and scripts. With patience, you don't have to. You'll just do it **yourself.**
 <hr>
 <h1>Requirements</h1>
 
