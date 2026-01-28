@@ -5,7 +5,7 @@
 
 > [!WARNING]
 > ## This project is no longer maintained.
-> I would recommend trying <a href="https://github.com/juhe1/ProtankiClientRemake/">this</a> as a good alternative. *Also, turn off cheats first before going to match, please.*<br>
+> I would recommend trying <a href="https://github.com/juhe1/ProtankiClientRemake/">this</a> as a good alternative, though it's WIP. *Also, turn off cheats first before going to match, please.*<br>
 > Anyways, old description:<br><br>
 > Constant library changes can be a big problem for me. Due to them constantly changing script file/folder names in library.swf file (could be preventing to get onto the modified client), this loses my motivation of taking these things done myself.<br>
 > It's possible that you can download these original ones from ``application.xml`` and straight up replace with textures and scripts.<br>
